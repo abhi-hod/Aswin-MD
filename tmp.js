@@ -22,6 +22,6 @@ function IgDl(insta_url) {
         reject({ status: 404, result: "No url found" });
       }
     });
-  } //𝗦𝗣𝗔𝗥𝗞𝗬 𝗠𝗢𝗗𝗦 😌👑
+  } //『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄😌👑
 
   IgDl('https://www.instagram.com/p/Cp9zTs4ImjP/?utm_source=ig_web_copy_link')
