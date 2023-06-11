@@ -19,10 +19,10 @@ module.exports = {
       : "^[!]",
   RMBG_KEY: process.env.RMBG_KEY || false,
   BRANCH: "master",
-  PACKNAME: process.env.PACKNAME || "Aswin-MD",
+  PACKNAME: process.env.PACKNAME || "『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄",
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
-  AUTHOR: process.env.AUTHOR || "Aswin Sparky",
+  AUTHOR: process.env.AUTHOR || "『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄",
   DATABASE_URL: DATABASE_URL,
   DATABASE:
     DATABASE_URL === "./lib/database.db"
@@ -41,10 +41,10 @@ module.exports = {
           },
           logging: false,
         }),
-  SUDO: process.env.SUDO || "917012984396,8156984396",
+  SUDO: process.env.SUDO || "917356952058,7356952058",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || " ",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || " ",
-  OWNER_NAME: process.env.OWNER_NAME || "Aswin Sparky",
-  BOT_NAME: process.env.BOT_NAME || "Aswin-MD",
+  OWNER_NAME: process.env.OWNER_NAME || "『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄",
+  BOT_NAME: process.env.BOT_NAME || "*༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈",
   WORK_TYPE: process.env.WORK_TYPE || "public",
 };
